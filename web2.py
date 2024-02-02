@@ -18,7 +18,7 @@ def predict_image(image):
     return 'Car' if prediction < 0.5 else 'Bike'
 
 st.title('Car or Bike Image guessing AI model')
-st.write("Developed with ❤ by Your Name")
+st.write("Developed with ❤ by Syed M Fraz Ali")
 # Upload the image file
 file = st.file_uploader("Please upload an image file", type=["jpg", "png", "jpeg"])
 
