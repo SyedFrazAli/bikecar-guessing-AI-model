@@ -35,5 +35,9 @@ if file is not None:
 
     # Show the prediction
     st.write("This image is most likely a ", prediction)
-    st.markdown("<div style='text-align: center;'>Developed with ❤ by  Syed M Fraz Ali</div>", unsafe_allow_html=True)
-   
+   st.write('\n') 
+   st.write('\n')
+   st.write('\n')
+   st.write("____________________________________")
+   st.write("Developed with ❤ by Syed M Fraz Ali")
+
