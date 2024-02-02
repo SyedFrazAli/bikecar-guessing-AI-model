@@ -35,4 +35,4 @@ if file is not None:
 
     # Show the prediction
     st.write("This image is most likely a ", prediction)
-    st.footer("Created by Syed M Fraz Ali")
+    st.markdown("Created by Syed M Fraz Ali")
