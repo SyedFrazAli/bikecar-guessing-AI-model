@@ -19,6 +19,7 @@ def predict_image(image):
 
 st.title('Car or Bike Image guessing AI model')
 st.write("Developed with ❤ by Syed M Fraz Ali")
+st.write("“Warning: This AI has a one-track mind! It’s either ‘vroom vroom’ 🚗 or ‘ring ring’ 🚲. Any other photo will cause a serious case of identity crisis!” 😄")
 # Upload the image file
 file = st.file_uploader("Please upload an image file", type=["jpg", "png", "jpeg"])
 
