@@ -35,9 +35,9 @@ if file is not None:
 
     # Show the prediction
     st.write("This image is most likely a ", prediction)
-    st.write('\n') 
-    st.write('\n')
-    st.write('\n')
-    st.write("____________________________________")
-    st.write("Developed with ❤ by Syed M Fraz Ali")
+st.write('\n') 
+st.write('\n')
+st.write('\n')
+st.write("____________________________________")
+st.write("Developed with ❤ by Syed M Fraz Ali")
 
